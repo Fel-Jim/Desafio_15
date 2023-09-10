@@ -1,0 +1,11 @@
+.principalBox {
+  display: grid;
+  background-color: grey;
+  justify-content: center;
+  width: 100vh;
+  border-color: black;
+  border-style: solid;
+}
+.buttonTask {
+  background-color: #0ef5d2;
+}
